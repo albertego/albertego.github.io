@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Liu Cong",
+    "label": "Postgraduate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "liucong@snnu.edu.cn",
+    "phone": "(+86) 123-4567",
+    "url": "https://www.oiasa.com",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
@@ -38,12 +38,24 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
+      "institution": "Yang Zhou University",
+      "url": "https://www.yzu.edu.cn/",
       "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "studyType": "Bachelor",
+      "startDate": "2017-09-03",
+      "endDate": "2021-06-15",
+      "score": "",
+      "courses": [
+        "Theory of Relativity"
+      ]
+    }
+    {
+      "institution": "Shaanxi Normal University",
+      "url": "https://www.snnu.edu.cn/",
+      "area": "Software Development",
+      "studyType": "Master",
+      "startDate": "2022-09-03",
+      "endDate": "2025-06-15",
       "score": "",
       "courses": [
         "Theory of Relativity"
@@ -63,7 +75,7 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Mandarin",
       "fluency": "Native speaker"
     },
     {
