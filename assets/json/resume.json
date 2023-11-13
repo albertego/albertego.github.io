@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Liu Cong",
-    "label": "Postgraduate",
+    "name": "刘聪（liu cong）",
+    "label": "Student",
     "image": "",
     "email": "liucong@snnu.edu.cn",
     "phone": "(+86) 123-4567",
     "url": "https://www.oiasa.com",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "Postgraduate students in progress.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -38,9 +38,9 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "Yang Zhou University",
+      "institution": "YangZhou University",
       "url": "https://www.yzu.edu.cn/",
-      "area": "Software Development",
+      "area": "Software Engineering",
       "studyType": "Bachelor",
       "startDate": "2017-09-03",
       "endDate": "2021-06-15",
@@ -52,10 +52,10 @@
     {
       "institution": "Shaanxi Normal University",
       "url": "https://www.snnu.edu.cn/",
-      "area": "Software Development",
+      "area": "Electronic Information",
       "studyType": "Master",
       "startDate": "2022-09-03",
-      "endDate": "2025-06-15",
+      "endDate": "",
       "score": "",
       "courses": [
         "Theory of Relativity"
