@@ -21,6 +21,10 @@ social: true  # includes social icons at the bottom of the page
 
 [Walk away](https://www.oiasa.com/). That's right.
 
-You know why I didn't take the job? Because it's too small! I don't care about it! It's nothing to me! It's a `bacterium`! I travel in worlds you can't even imagine! You can't conceive of what I'm capable of! I'm so far **beyond** you!
+You know why I didn't take the job? Because it's too small! I don't care about it! It's nothing to me! It's a `bacterium`! 
 
-`I'm like a god in human clothing! Lighting bolts shoot from my fingertips!`
+I travel in worlds you can't even imagine! You can't conceive of what I'm capable of! I'm so far **beyond** you!
+
+`I'm like a god in human clothing! `
+
+`Lighting bolts shoot from my fingertips!`
