@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: experiences
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Projects, Academe, Work, Fun, etc.
 nav: true
 nav_order: 2
 display_categories: [project, academe, work, fun]
