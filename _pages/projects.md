@@ -2,10 +2,10 @@
 layout: page
 title: experiences
 permalink: /projects/
-description: Projects, Academe, Work, Fun, etc.
+description: projects, academics, work, fun, etc.
 nav: true
 nav_order: 2
-display_categories: [project, academe, work, fun]
+display_categories: [project, academics, work, fun]
 horizontal: false
 ---
 
