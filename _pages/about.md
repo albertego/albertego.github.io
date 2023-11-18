@@ -1,8 +1,8 @@
 ---
 layout: about
-title: home
+title: about
 permalink: /
-subtitle: 相信自己，但又承认自己的无知 Etc. # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Seeing is believing. # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
