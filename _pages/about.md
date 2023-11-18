@@ -1,15 +1,15 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
-subtitle: Etc. # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 相信自己，但又承认自己的无知 Etc. # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> liucong@snnu.edu.cn </p>
+    <p>liucong@snnu.edu.cn</p>
     <p>Shaanxi Normal University</p>
     <p>Xi'an Chang'an, Shaanxi</p>
 
