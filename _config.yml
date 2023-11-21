@@ -268,8 +268,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Liu, 聪]
-  first_name: [Cong, C., 刘]
+  last_name: [Liu]
+  first_name: [Cong, C., 刘聪]
 
   style: apa
   locale: en
