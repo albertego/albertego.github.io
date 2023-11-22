@@ -4,8 +4,8 @@ title: experiences
 permalink: /projects/
 description: projects, academics, work, fun, etc.
 nav: true
-nav_order: 2
-display_categories: [project, academics, work, fun]
+nav_order: 3
+display_categories: [project, academe, work, fun]
 horizontal: false
 ---
 
