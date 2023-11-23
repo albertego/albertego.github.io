@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Seeing is believing. # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 他只有两样不会，这也不会，那也不会。
+# <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
