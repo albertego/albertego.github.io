@@ -1,6 +1,6 @@
 ---
 layout: page
-title: academe 3
+title: 本科毕设
 description: 移动平台上的邮件分类系统
 img: assets/img/12.jpg
 importance: 3
@@ -8,18 +8,16 @@ category: academe
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+时间：2020年12月 - 2021年06月
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+通过对垃圾邮件的处理问题进行研究，以及对开发中会用到Android 平台的系统架构和应用组件、电子邮件工作的原理、
+常用电子邮件的协议以及邮件分类中使用的中文分词技术和朴素贝叶斯分类模型等进行学习和掌握，
+开发出一个能在Android平台运行的邮件分类系统。
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+该系统能够实现基础的邮箱客户端功能：邮件发送、邮件接收、邮件查看、账号管理等。在完成基本功能后，
+本系统通过训练，还实现了邮件的自动分类功能，该功能能够根据邮件的内容判断邮件的类型，然后移动到指定的文件夹中。
+通过对系统进行需求分析、概要设计和详细设计，基本实现目标开发系统。
+最后通过在Android真机运行测试，最终完成了该软件的开发，完成任务。
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

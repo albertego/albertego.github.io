@@ -1,6 +1,6 @@
 ---
 layout: page
-title: academe 2
+title: 扬州大学大学生重点科创项目
 description: 轴流泵叶轮水力设计与软件开发
 img: assets/img/12.jpg
 importance: 2
@@ -8,18 +8,15 @@ category: academe
 related_publications: SOFTWARERIGHT1, SOFTWARERIGHT2, ZNSD202009002
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+时间：2019年02月 - 2020年10月
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+参与校大学生重点科创项目《轴流泵叶轮水力设计与软件开发》，担任软件开发工作的主要负责人。
+建立叶片设计数学模型，通过程序设计、数值模拟、数值优化等方法，对影响轴流泵叶片设计的参数进行研究，
+为轴流泵高效设计提供一定的理论基础及设计依据。
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+以第一作者获得软件著作两项《基于儒可夫斯基翼型的轴流泵三维建模软件》、《基于二维叶栅理论的图形交互式轴流泵叶片软件》；
+在核心期刊《中国农村水利水电》发表论文《翼型最大厚度与最大拱度的相对位置对轴流泵水力性能的影响》；
+申请发明专利《基于儒可夫斯基翼型的新型轴流泵叶轮自动化设计方法》。
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

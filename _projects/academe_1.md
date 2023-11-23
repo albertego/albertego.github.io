@@ -1,6 +1,6 @@
 ---
 layout: page
-title: academe 1
+title: 国家自然基金
 description: 车联网中基于深度强化学习的鲁棒性多域资源分配机制研究
 img: assets/img/12.jpg
 importance: 1
@@ -8,18 +8,11 @@ category: academe
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+时间：2022年10月 - 至今
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+项目描述：车联网作为智慧城市的一个重要模块，具有极高的研究意义，因此，本项目旨研究在车联网中高动态网络拓扑下，联合调度频谱、发射功率、传输时隙等多域资源，借助深度强化学习和鲁棒性优化理论，设计高效的鲁棒性多域资源分配机制；
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+负责工作：车联网中的通信、感知和计算融合的资源分配方案的设计。
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
