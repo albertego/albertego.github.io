@@ -7,7 +7,7 @@ subtitle: 他只有两样不会，这也不会，那也不会。
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: luffy.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>liucong@snnu.edu.cn</p>
