@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: display
-description: publications
+description: 获奖成果展示页
 nav: true
 nav_order: 2
 ---
