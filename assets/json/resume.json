@@ -58,17 +58,21 @@
       "summary": "基于React + Spring Boot + Dubbo + Gateway的API接口开放调用平台。",
       "highlights": [
         "根据业务流程，将整个项目后端划分为web系统、模拟接口、公共模块、客户端SDK、API网关这5个子项目，并使用Maven进行多模块依赖管理和打包。",
-        "基于MyBatis Plus框架实现对MySQL数据库的灵活査询，并配合MyBatis X插件实现后端CRUD基础代码，提高开发效率。"
+        "基于MyBatis Plus框架实现对MySQL数据库的灵活査询，并配合MyBatis X插件实现后端CRUD基础代码，提高开发效率。",
+        "设计API签名认证算法，为用户分配唯一的密钥对（ak和sk）以鉴权，防止接口被恶意调用，保障调用的安全性、可溯源性。",
+        "基于Spring Boot Start开发了客户端SDK，一行代码即可调用接口。",
+        "选用Spring Cloud Gateway作为API网关，实现了路由转发、访问控制、流量染色，并集中处理签名校验、请求参数校验、接口调用统计等业务逻辑，提高了系统安全性，且便于开发维护。",
+        "使用Dubbo RPC框架实现子系统间的高性能接口调用，解决了子系统内代码重复的问题。"
       ]
     }
   ],
   "volunteer": [],
   "awards": [
     {
-      "title": "Apollo自动驾驶竞赛",
-      "date": "1921",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "第二十五届中国机器人及人工智能大赛-百度Apollo星火自动驾驶大赛",
+      "date": "2023",
+      "awarder": "全国总决赛二等奖",
+      "summary": "基于百度Apollo真实产业实践案例，围绕自动驾驶车辆在城市道路的行驶场景，开展自动驾驶软件算法研究。参赛选手按照赛题要求，基于本地竞赛环境进行开发调试，调试完成后按照规则提交代码进行线上评测。"
     }
   ],
   "certificates": [],
