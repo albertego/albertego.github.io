@@ -3,7 +3,7 @@ layout: page
 title: experiences
 permalink: /projects/
 description: projects, academics, work, fun, etc.
-nav: true
+nav: false
 nav_order: 3
 display_categories: [project, academe, work, fun]
 horizontal: false
