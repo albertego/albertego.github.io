@@ -2,7 +2,7 @@
 layout: page
 title: 国家自然科学基金面上项目：620701283
 description: 车联网中基于深度强化学习的鲁棒性多域资源分配机制研究
-img: assets/img/12.jpg
+img: assets/img/snnu.jpg
 importance: 1
 category: academe
 related_publications: einstein1956investigations, einstein1950meaning

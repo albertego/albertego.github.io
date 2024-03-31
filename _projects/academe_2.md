@@ -2,7 +2,7 @@
 layout: page
 title: 扬州大学大学生重点科创项目
 description: 轴流泵叶轮水力设计与软件开发
-img: assets/img/12.jpg
+img: assets/img/yzu.jpg
 importance: 2
 category: academe
 related_publications: SOFTWARERIGHT1, SOFTWARERIGHT2, ZNSD202009002

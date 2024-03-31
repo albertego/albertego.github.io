@@ -4,7 +4,7 @@ title: 本科毕设
 description: 移动平台上的邮件分类系统
 img: assets/img/12.jpg
 importance: 3
-category: academe
+category: 
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
