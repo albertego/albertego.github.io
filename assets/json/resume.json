@@ -50,14 +50,15 @@
   ],
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "ALBERTGO API Platform",
+      "position": "Full-stack developer",
       "url": "https://example.com",
-      "startDate": "1933",
-      "endDate": "1955",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "startDate": "2023",
+      "endDate": "2024",
+      "summary": "基于React + Spring Boot + Dubbo + Gateway的API接口开放调用平台。",
       "highlights": [
-        "Relativity"
+        "根据业务流程，将整个项目后端划分为web系统、模拟接口、公共模块、客户端SDK、API网关这5个子项目，并使用Maven进行多模块依赖管理和打包。",
+        "基于MyBatis Plus框架实现对MySQL数据库的灵活査询，并配合MyBatis X插件实现后端CRUD基础代码，提高开发效率。"
       ]
     }
   ],
