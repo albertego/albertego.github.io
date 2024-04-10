@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle: 更多内容开发中:) 敬请期待
 # 他只有两样不会，这也不会，那也不会。
 # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -21,8 +21,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-liucong@snnu.edu.cn
+`liucong@snnu.edu.cn`
 
-Shaanxi Normal University
+`Shaanxi Normal University`
 
-Xi'an Chang'an, Shaanxi
+`Xi'an Chang'an, Shaanxi`
